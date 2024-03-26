@@ -5,7 +5,7 @@ import styles from "./style.module.scss";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { registerPageSchema } from "./registerPage.schemas";
-import Logo from "../../assets/Logo.svg";
+import Logo from "../../assets/logo.svg";
 import { useContext } from "react";
 import { UserContext } from "../../providers/UserContext";
 

@@ -1,5 +1,5 @@
 import styles from "./style.module.scss";
-import Logo from "../../assets/Logo.svg";
+import Logo from "../../assets/logo.svg";
 import { useContext, useState } from "react";
 import { UserContext } from "../../providers/UserContext";
 import { TechList } from "../TechList";
